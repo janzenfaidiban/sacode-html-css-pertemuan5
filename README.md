@@ -2,6 +2,11 @@
 
 ## Git Commands
 
+Git Clone: Digunakan untuk mendownload repository yang sudah dibuat di GitHub
+```
+git clone <repository.git url>
+```
+
 Git-Init: Digunakan untuk membuat repository yang ada pada file lokal dan berlokasi di folder .git. 
 ```
 git init
